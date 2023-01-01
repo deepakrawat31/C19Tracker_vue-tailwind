@@ -17,7 +17,7 @@ export default {
             dataDate: '',
             stats: {},
             countries: [],
-            loadingImg: './src/assets/hourglass.gif',
+            loadingImg: '../assets/hourglass.gif',
         }
     },
     methods: {
